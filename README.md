@@ -1,1 +1,1 @@
-# bru.vignati.marcone
+{"Fabian":{"name":"Fabian","friends":{"Rey":{"name":"Rey"},"Ellie":{"name":"Ellie"},"Cassi":{"name":"Cassi"}}},"Rey":{"name":"Rey","friends":{"Fabian":{"name":"Fabian"}}},"Ellie":{"name":"Ellie","friends":{"Fabian":{"name":"Fabian"},"Cassi":{"name":"Cassi"}}},"Cassi":{"name":"Cassi","friends":{"Fabian":{"name":"Fabian"},"Ellie":{"name":"Ellie"}}}}
